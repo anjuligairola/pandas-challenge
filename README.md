@@ -4,3 +4,8 @@ The data represents the city’s school district data and provides information b
 
 Further conclusions were reached after data analyses.
 * 15 schools are in a district with a total student headcount of 39,170. The math, reading, and overall pass percentage was 74.98%, 85.81%, and 65.17%, respectively.
+* All the top 5 performing schools are Charter schools, with an overall passing percentage above 90%.
+* The bottom five performing schools are District schools, with the lowest overall passing percentage of 53.5%.
+* There was an indirect relationship between average spending ranges (per student) and the passing percentage for math, reading, and overall. As the spending range increased, the passing percentage decreased. 
+* The school size didn’t show a trend or association with the test performance scores of students.
+* In summary, charter schools' standardized test scores and passing rates were higher than district ones.
